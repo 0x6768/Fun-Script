@@ -1,6 +1,6 @@
 @echo off
 REM 一键安装VS Code的批处理脚本
-
+chcp 65001
 REM 设置变量
 set "vscode_url=https://vscode.cdn.azure.cn/stable/2ccd690cbff1569e4a83d7c43d45101f817401dc/VSCodeUserSetup-x64-1.80.2.exe"
 
